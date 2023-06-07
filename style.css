@@ -16,6 +16,25 @@
 .cabecalho-lista-item{
   display: inline-block;
   margin: 0 16px;
+  font-size: 24px;
 }
+.padaria-imagem{
+    width: 25%;
+}
+
+.padaria {
+    background-image: linear linear-gradient(s#424E61,#4EBFE9);
+    color: white;
+     display:flex;
+     justify-content: center;
+     align-items: center;
+}
+.padaria-div-conteudo{
+    width:35%;
+}
+.padaria-titulo{
+    padding: 24px 0;
+}
+
 
 
