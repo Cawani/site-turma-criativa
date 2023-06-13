@@ -38,6 +38,13 @@ body{
 .padaria-titulo{
     padding: 24px 0;
 }
+.cliente-imagem{ 
+ width: 120px;
+}
+
+.cliente-icone{
+    width:24px;
+}
 
 
 
